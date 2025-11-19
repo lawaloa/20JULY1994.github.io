@@ -22,6 +22,7 @@
   {
     "listing": "/Note.html",
     "items": [
+      "/Note/Intro_Seaborn/Seaborn_intro.html",
       "/Note/Intro_Matplotlib/Matplotlib_intro.html",
       "/Note/Statistic_intro/Statistic_intro.html",
       "/Note/Great_Table_3/GT_3.html",
